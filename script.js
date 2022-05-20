@@ -17,7 +17,7 @@ const config = {
     ],
     correct_text: "Well Done! That's correct!",
     headerImg_on: false,
-    headerImg: "https://a.storyblok.com/f/112136/130x160/731788149f/avatar_matt-owen.png",
+    headerImg: "",
     reveal_text_on: false,
     reveal_text: "Reveal On",
     reveal_img_on: true,
