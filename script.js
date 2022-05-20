@@ -18,10 +18,10 @@ const config = {
     correct_text: "Well Done! That's correct!",
     headerImg_on: false,
     headerImg: "",
-    reveal_text_on: false,
-    reveal_text: "Reveal On",
-    reveal_img_on: true,
-    reveal_img: "https://a.storyblok.com/f/112136/509x186/ba5c52e287/pbemo.gif"
+    reveal_text_on: true,
+    reveal_text: "Well done! Click the Next Video buttont to proceed.",
+    reveal_img_on: false,
+    reveal_img: ""
 }
 
 const instructionContainer = document.getElementById('instructionContainer')
