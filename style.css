@@ -71,7 +71,6 @@ body {
 .instructionContainer {
     display: flex;
     align-items: center;
-    background-color: #172B49;
     padding: 1rem;
     padding-bottom: 0;
     color: white;
