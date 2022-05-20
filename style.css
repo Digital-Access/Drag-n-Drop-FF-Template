@@ -28,7 +28,8 @@ body {
     justify-content: flex-start;
     height: 100vh;
     margin: 0;
-    background-color: #172B49;
+    background-image: url("https://a.storyblok.com/f/117027/3129x2020/51e7d3b0d6/prelogin.png");
+    background-size: cover;
 }
 
 .image{
